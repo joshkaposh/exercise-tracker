@@ -1,0 +1,56 @@
+/* Start of navbar css ***************************************/
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1rem;
+}
+
+nav .nav-link{
+    margin-left: 7px;
+  }
+  
+  nav{
+    height: 60px;
+    width: 100%;
+    background: rgba(12, 11, 11, 0.8);
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  nav div a{
+    text-decoration: none;
+    color: rgb(230, 230, 230);
+    padding: 2px 3px;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 4px;
+  }
+  
+  a.home{
+    text-decoration: none;
+    color: rgb(230, 230, 230);
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 4px;
+    padding: 2px 3px;
+    height: 22px;
+    margin-left: 1rem;
+  }
+  
+  nav a:hover{
+    color: #fff;
+    border: 1px solid #fff;
+  }
+  
+  
+  
+  .navbar-nav{
+    margin-left: auto;
+  }
+  
+  .form-control{
+    margin: 5px;
+  }
+  
+  
+  /* End of navbar css ***************************************/

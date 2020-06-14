@@ -1,0 +1,22 @@
+/* Start of Exercises list css ***************************************/
+
+/* Edit/Delete buttons UI */
+#edit-exercise,#delete-exercise{
+    text-decoration: none;
+  }
+  #edit-exercise:hover,#delete-exercise:hover{
+    text-decoration: underline;
+  }
+  
+  /* Table styling */
+  .exercises-list .table{
+    margin: 3rem;
+  }
+  
+  .table{
+    border: 1px dotted #000;
+  }
+  
+  .exercises-list h2{
+    margin-top: 2rem;
+  }
