@@ -1,0 +1,27 @@
+To start:
+
+    Make sure dependencies are installed (see package.jsons)
+    
+    Server dependencies:
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.18"
+
+    React dependencies:
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.5.0",
+        "@testing-library/user-event": "^7.2.1",
+        "axios": "^0.19.2",
+        "react": "^16.13.1",
+        "react-datepicker": "^3.0.0",
+        "react-dom": "^16.13.1",
+        "react-router": "^5.2.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.4.1"
+
+    1. Open terminal and cd into backend/server.js
+    2. Run nodemon server to start server on localhost:3000
+    3. cd out of backend back to root folder
+    4. Run npm start, answer yes if there is a prompt
+    
